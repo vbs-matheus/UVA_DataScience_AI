@@ -8,4 +8,4 @@ Dos dados disponibilizados pelo Data Rio, este trabalho utilizou para limpeza, a
 Receita Total | Salários | Número de Empresas | Pessoal Ocupado
 </strong>.
   
-<strong>→ [PDF da Apresentação]()</strong>
+<strong>→ [PDF da Apresentação](https://github.com/vbs-matheus/UVA_DataScience_AI/blob/main/Projeto%20DataRio/Indicadores_Econ%C3%B4micos_do_Rio_de_Janeiro_2000_2006.pdf)</strong>
